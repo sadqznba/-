@@ -1,5 +1,5 @@
 
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/R7KScript/usernaxo/refs/heads/main/GUI3")))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sadqznba/-/refs/heads/main/README.md"))()
 MakeWindow({
   Hub = {
     Title = "SADQ HUP",
